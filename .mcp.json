@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "fastmcpLearning": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "fastmcp", "run", "server.py"],
+      "tools": ["add_numbers", "get_hardware_report"]
+    }
+  }
+}
